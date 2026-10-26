@@ -4,8 +4,8 @@ A calm web browser for the Mac, by MilkStraw AI.
 
 ## Download
 
-- [Skim for Apple chip Macs (M1 and newer)](https://github.com/JJhazy/skim-releases/releases/latest/download/Skim.dmg)
-- [Skim for Intel Macs](https://github.com/JJhazy/skim-releases/releases/latest/download/Skim-Intel.dmg)
+- [Skim for Apple chip Macs (M1 and newer)](https://github.com/JJhazy/skim-browser/releases/latest/download/Skim.dmg)
+- [Skim for Intel Macs](https://github.com/JJhazy/skim-browser/releases/latest/download/Skim-Intel.dmg)
 
 Skim needs macOS 14 or later. Once installed, it keeps itself up to date.
 
